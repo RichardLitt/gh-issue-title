@@ -2,6 +2,7 @@
 
 > Get and set a GitHub Issue title
 
+**Note:** This is a work in progress.
 
 ## Install
 

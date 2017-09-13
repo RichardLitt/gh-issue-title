@@ -1,5 +1,7 @@
 # gh-issue-title [![Build Status](https://travis-ci.org/RichardLitt/gh-issue-title.svg?branch=master)](https://travis-ci.org/RichardLitt/gh-issue-title)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/gh-issue-title.svg)](https://greenkeeper.io/)
+
 > Get and set a GitHub Issue title
 
 **Note:** This is a work in progress.

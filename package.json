@@ -35,11 +35,11 @@
     "ghauth": "^3.2.0",
     "gitconfiglocal": "^2.0.1",
     "meow": "^3.6.0",
-    "octokat": "^0.4.16",
-    "pify": "^2.3.0"
+    "octokat": "^0.9.2",
+    "pify": "^3.0.0"
   },
   "devDependencies": {
-    "standard": "^5.4.1",
-    "ava": "^0.9.1"
+    "standard": "^10.0.3",
+    "ava": "^0.22.0"
   }
 }

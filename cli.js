@@ -23,9 +23,9 @@ var cli = meow([`
     Bug: Make this work
     $ gh-issue-title RichardLitt/ipfs 31 'ponies and unicorns'
     New title: ponies and unicorns
-`, {
+`], {
   alias: {}
-}])
+})
 
 Promise.try(() => {
   return pify(gitconfig)(process.cwd())
